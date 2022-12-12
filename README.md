@@ -2,7 +2,7 @@
 
 Hello, my name is Jason, I'm 36 years old, live in Seattle Washington, and this is my reading journal. I hope you enjoy it. 🤓
 
-:sassy_man: Here is the link to [My Github Portfolio](https://github.com/JaseadamsDev)
+💁🏻‍♂️ Here is the link to [My Github Portfolio](https://github.com/JaseadamsDev)
 
 ## ***What is growth midset in my words. What does it mean to me.***
 
