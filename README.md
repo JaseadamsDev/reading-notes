@@ -1,14 +1,18 @@
 # **My Reading Journal**
 
-Hello, my name is Jason
+Hello, my name is Jason, I'm 36 years old, live in Seattle Washington, and this is my reading journal. I hope you enjoy it. :nerd_face:
 
 Link to [My Github Portfolio](https://github.com/JaseadamsDev)
 
-## What is growth midset in my words. What does it mean to me.
+## ***What is growth midset in my words. What does it mean to me.***
 
-### 3 reminders to stay in a growth mindset
+A growth mindset is simply having a positive attitude that focuses on your ability to learn and improve instead of your limitations. It encourages you to challenge yourself and be willing to try new things, which can lead to success in all areas of life, including careers, relationships, and physical health. Continuously approaching problems with curiosity rather than fear or anxiety leads to improved performance at work and home. Challenging ourselves through pushback from negative influences or tough tests helps us develop ourselves, which is an essential quality for any individual looking to achieve their goals, no matter how big or small they may be. Ultimately, having a growth mindset leads to greater productivity both at work and in personal life.
 
-1.
-2.
-3.
+### ***3 reminders to stay in a growth mindset.***
+
+1. Recognize your wins and setbacks as learning opportunities.
+2. Stay positive and stay focused on the future  goals that you want to accomplish.
+3. Let go of comparisons with others and focus on your own development.
+4. Stay focused on your long-term goals, rather than getting bogged down by the details.
+5. Persevere and never give up on your dreams!
 
