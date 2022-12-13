@@ -9,10 +9,22 @@ Markdown is easy to use and you can even make blog posts, and web pages, and sha
 
 Notes: Markdown includes features like headers, footers, lists, tables, links (including internal and external ones), and images.
 
-Notes
+Notes: **Creating links.**
+create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( )
 
-Notes
+Notes: **Styling text I used.**
+Bold ** **. **This is bold text**
+Italic * *. *This text is italicized*
+Bold and nested italic ** **.  **This text is _extremely_ important**
 
+**Adding an image:** 
+Display an image by adding a ! and wrapping the alt text in [ ]. Next wrap the link for the image in parentheses ()
 
-Things I'd like to know more about. 
+Notes: To order your list, precede each line with a number.
+
+**Things I'd like to know more about.**
 Markdown: learning how to upload code, learning more commands. 
+
+**Want to try:**
+Task lists
+To create a task list, preface list items with a hyphen and space followed by [ ]. To mark a task as complete, use [x].
