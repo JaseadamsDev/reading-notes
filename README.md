@@ -1,18 +1,41 @@
 # **My Reading Journal**
 
-Hello, my name is Jason, I'm 36 years old, live in Seattle Washington, and this is my reading journal. I hope you enjoy it. 🤓
+Hello everyone :wave::skin-tone-3:
+My name is Jason. I’m originally from Stanwood, Washington but I now live in Hồ Chí Minh, Việt Nam. For the past several years I've been doing digital marketing and customer support for an ecommerce company in Thailand . I'm now looking to start a new a new journey in software development or QA automation. I'm Looking forward to see what the future holds.
 
-💁🏻‍♂️ Here is the link to [My Github Portfolio](https://github.com/JaseadamsDev)
+This website is for my notes for Code Fellows course 102 and 201
 
-## ***What is growth midset in my words. What does it mean to me.***
+[My GitHub bio](https://github.com/JaseadamsDev?tab=repositories)
 
-A growth mindset is simply having a positive attitude that focuses on your ability to learn and improve instead of your limitations. It encourages you to challenge yourself and be willing to try new things, which can lead to success in all areas of life, including careers, relationships, and physical health. Continuously approaching problems with curiosity rather than fear or anxiety leads to improved performance at work and home. Challenging ourselves through pushback from negative influences or tough tests helps us develop ourselves, which is an essential quality for any individual looking to achieve their goals, no matter how big or small they may be. Ultimately, having a growth mindset leads to greater productivity both at work and in personal life.
+*A Table of Contents*
 
-### ***5 reminders to stay in a growth mindset.***
+Groth Mindset
 
-1. Recognize your wins and setbacks as learning opportunities.
-2. Stay positive and stay focused on the future  goals that you want to accomplish.
-3. Let go of comparisons with others and focus on your own development.
-4. Stay focused on your long-term goals, rather than getting bogged down by the details.
-5. Persevere and never give up on your dreams!
+# 102 Reading Notes
 
+1. [Class 01 notes](102-notes-folder/class1.md)
+2. [Class 02 notes](102-notes-folder/class2.md)
+3. [Class 03 notes](102-notes-folder/class3.md)
+4. [Class 04 notes](102-notes-folder/class4.md)
+5. [Class 05 notes](102-notes-folder/class5.md)
+6. [Class 06 notes](102-notes-folder/class6.md)
+7. [Class 07 notes](102-notes-folder/class7.md)
+8. [Class 08 notes](102-notes-folder/class8.md)
+
+# 201 Reading Notes
+
+1. [Class 01 notes](201-notes-folder/class1.md)
+2. [Class 02 notes](201-notes-folder/class2.md)
+3. [Class 03 notes](201-notes-folder/class3.md)
+4. [Class 04 notes](201-notes-folder/class4.md)
+5. [Class 05 notes](201-notes-folder/class5.md)
+6. [Class 06 notes](201-notes-folder/class6.md)
+7. [Class 07 notes](201-notes-folder/class7.md)
+8. [Class 08 notes](201-notes-folder/class8.md)
+9. [Class 09 notes](201-notes-folder/class9.md)
+10. [Class 10 notes](201-notes-folder/class10.md)
+11. [Class 11 notes](201-notes-folder/class11.md)
+12. [Class 12 notes](201-notes-folder/class12.md)
+13. [Class 13 notes](201-notes-folder/class13.md)
+14. [Class 14 notes](201-notes-folder/class14.md)
+15. [Class 15 notes](201-notes-folder/class15.md)
