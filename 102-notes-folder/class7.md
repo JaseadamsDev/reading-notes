@@ -60,4 +60,3 @@ For example, the above excerpt might be inside a function that runs when the use
 7. more about Javascript framework
 
 [Source:](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
-

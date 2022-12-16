@@ -69,3 +69,7 @@ Learn more about , external, internal CSS
 
 [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
+Source: What_is_CSSLinks to an external site.
+GitHub Link: https://github.com/JaseadamsDev/reading-notes/blob/main/102-notes-folder/class5.mdLinks to an external site.Links to an external site.
+
+My GitHub Bio:  https://github.com/JaseadamsDev
