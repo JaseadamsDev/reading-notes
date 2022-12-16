@@ -7,4 +7,4 @@ This website is for my notes for Code Fellows course 102 and 201
 
 [My GitHub bio](https://github.com/JaseadamsDev?tab=repositories)
 
-[A Table of Contents](102-notes-folder/TableofContents.md)
+[A Table of Contents](https://github.com/JaseadamsDev/reading-notes/blob/main/TableofContents.md)
