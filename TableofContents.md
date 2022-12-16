@@ -1,5 +1,7 @@
 # Table of contents 
 
+[A Table of Contents](102-notes-folder/TableofContents.md)
+
 # *102 Reading Notes*
 
 1. [Class 01 notes](102-notes-folder/class1.md)
