@@ -1,6 +1,6 @@
 # Table of contents 
 
-[A Table of Contents](https://github.com/JaseadamsDev/reading-notes/blob/main/TableofContents.md)
+[A Table of Contents](TableofContents.md)
 
 # *102 Reading Notes*
 
